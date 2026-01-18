@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaibhavVDeshmukh
 - 👀 I’m interested in Technologies and Innovations
 - 🌱 I find programming really intresting
-- 💞️ I’m currently working with MEG-NXT Organisation as a Software Development Engineer
+- 🏢 I’m currently working with CSTech Ai Organisation as a Senior Software Developer
 
 <!---
 VaibhavVDeshmukh/VaibhavVDeshmukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
